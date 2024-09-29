@@ -1,5 +1,6 @@
 import HeroSec from "@/components/HeroSec";
 import Navbar from "@/components/Navbar";
+import DestinationA from "@/components/DestinationA";
 import Image from "next/image";
 
 export default function Home() {
@@ -7,6 +8,7 @@ export default function Home() {
     <main >
         <Navbar/>
         <HeroSec/>
+     <DestinationA/>
     </main>
   );
 }
