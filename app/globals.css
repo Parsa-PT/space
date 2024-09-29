@@ -8,3 +8,26 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.herobgA{
+  background-image: url('/homepic/hero/herosec2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+html{
+  background-color: #0B0D17;
+}
+
+@media only screen and (max-width: 1020px) {
+  .herobgr{
+    background-image: url('/homepic/hero/test2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+  }
+}
