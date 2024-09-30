@@ -16,6 +16,13 @@
   background-size: cover;
   
 }
+.herobgb{
+  background-image: url('/homepic/hero/herosec3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
 
 html{
   background-color: #0B0D17;
